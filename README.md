@@ -1,2 +1,2 @@
 # CompetitiveCoding
-A few solved questions from leetcode and codechef.
+A few solved questions from leetcode,codechef and hackerearth.
